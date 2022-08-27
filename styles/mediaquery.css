@@ -1,0 +1,40 @@
+@media screen and (min-width: 600px) {
+	.image-cropped-container {
+		width: 80%;
+	}
+
+	.header-container {
+		width: 900px;
+	}
+
+	.container {
+		width: 500px;
+	}
+
+	.get-invite-container {
+		width: 900px;
+		padding: 70px 0px;
+	}
+
+	.unlimited-space-container  {
+		padding: 70px 0px;
+		width: 900px;
+	}
+
+	.unlimited-space-image-container {
+		width: 200px;
+	}
+
+	.email-form {
+		flex-direction: row;
+	}
+
+	#email-input {
+		width: 60%;
+	}
+
+	#submit-input {
+		width: 30%;
+	}
+	
+}

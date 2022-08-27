@@ -1,0 +1,23 @@
+.mobile-access  {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+.mobile-access-container  {
+	padding-top: 20px;
+	width: 90%;
+
+}
+
+.image-cropped-container {
+	margin-top: 50px;
+	width: 100%;
+	overflow: hidden;
+}
+
+.image-cropped-container img {
+	display: block;
+	width: 100%;
+	min-height: 100%;
+	margin-bottom: -100%;
+}
